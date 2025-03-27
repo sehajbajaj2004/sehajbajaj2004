@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sehaj Bajaj</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h3 align="center">A Game Developer</h3>
 
 - 🔭 I’m currently working on **Study Hive**
 
-- 👯 I’m looking to collaborate on **FullStack Projects**
+- 👯 I’m looking to collaborate on **Unity 3D Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sehajbajaj2004/](https://github.com/sehajbajaj2004/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Unity and Game Development**
 
 - 📫 How to reach me **sehajbajaj2004@gmail.com**
 
