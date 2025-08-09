@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sehaj Bajaj</h1>
-<h3 align="center">A Game Developer</h3>
-
-- 🔭 I’m currently working on **Study Hive**
-
-- 👯 I’m looking to collaborate on **Unity 3D Projects**
+<h3 align="center">A Game Developer | Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sehajbajaj2004/](https://github.com/sehajbajaj2004/)
 
