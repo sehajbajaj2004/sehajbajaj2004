@@ -1,0 +1,55 @@
+<svg viewBox="0 0 600 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Blocks dropping into place and building a small structure, on a loop">
+<style>
+  .cap{font-family:'Trebuchet MS',Verdana,sans-serif;font-size:16px;fill:#0B5FFF;text-anchor:middle;}
+  @media (prefers-color-scheme: dark){ .cap{fill:#5EEAD4;} }
+
+  @keyframes b1{0%{opacity:0;transform:translateY(30px)}8%{opacity:1;transform:translateY(0)}64%{opacity:1;transform:translateY(0)}74%{opacity:0;transform:translateY(-10px)}100%{opacity:0;transform:translateY(-10px)}}
+  @keyframes b2{0%{opacity:0;transform:translateY(30px)}3%{opacity:0;transform:translateY(30px)}11%{opacity:1;transform:translateY(0)}64%{opacity:1;transform:translateY(0)}74%{opacity:0;transform:translateY(-10px)}100%{opacity:0;transform:translateY(-10px)}}
+  @keyframes b3{0%{opacity:0;transform:translateY(30px)}6%{opacity:0;transform:translateY(30px)}14%{opacity:1;transform:translateY(0)}64%{opacity:1;transform:translateY(0)}74%{opacity:0;transform:translateY(-10px)}100%{opacity:0;transform:translateY(-10px)}}
+  @keyframes b4{0%{opacity:0;transform:translateY(30px)}10%{opacity:0;transform:translateY(30px)}18%{opacity:1;transform:translateY(0)}64%{opacity:1;transform:translateY(0)}74%{opacity:0;transform:translateY(-10px)}100%{opacity:0;transform:translateY(-10px)}}
+  @keyframes b5{0%{opacity:0;transform:translateY(30px)}13%{opacity:0;transform:translateY(30px)}21%{opacity:1;transform:translateY(0)}64%{opacity:1;transform:translateY(0)}74%{opacity:0;transform:translateY(-10px)}100%{opacity:0;transform:translateY(-10px)}}
+  @keyframes b6{0%{opacity:0;transform:translateY(30px)}17%{opacity:0;transform:translateY(30px)}25%{opacity:1;transform:translateY(0)}64%{opacity:1;transform:translateY(0)}74%{opacity:0;transform:translateY(-10px)}100%{opacity:0;transform:translateY(-10px)}}
+  @keyframes capfade{0%{opacity:0}25%{opacity:0}30%{opacity:1}64%{opacity:1}74%{opacity:0}100%{opacity:0}}
+
+  .blk1{animation:b1 5s ease-in-out infinite;}
+  .blk2{animation:b2 5s ease-in-out infinite;}
+  .blk3{animation:b3 5s ease-in-out infinite;}
+  .blk4{animation:b4 5s ease-in-out infinite;}
+  .blk5{animation:b5 5s ease-in-out infinite;}
+  .blk6{animation:b6 5s ease-in-out infinite;}
+  .capline{animation:capfade 5s ease-in-out infinite;}
+</style>
+
+<g class="blk1" transform="translate(206,150)">
+  <rect width="56" height="56" rx="10" fill="#2B6FC9"/>
+  <rect width="56" height="16" rx="10" fill="#ffffff" opacity="0.18"/>
+  <rect y="40" width="56" height="16" rx="10" fill="#000000" opacity="0.12"/>
+</g>
+<g class="blk2" transform="translate(268,150)">
+  <rect width="56" height="56" rx="10" fill="#36D1C4"/>
+  <rect width="56" height="16" rx="10" fill="#ffffff" opacity="0.18"/>
+  <rect y="40" width="56" height="16" rx="10" fill="#000000" opacity="0.12"/>
+</g>
+<g class="blk3" transform="translate(330,150)">
+  <rect width="56" height="56" rx="10" fill="#6A3093"/>
+  <rect width="56" height="16" rx="10" fill="#ffffff" opacity="0.18"/>
+  <rect y="40" width="56" height="16" rx="10" fill="#000000" opacity="0.12"/>
+</g>
+<g class="blk4" transform="translate(237,88)">
+  <rect width="56" height="56" rx="10" fill="#4C51BF"/>
+  <rect width="56" height="16" rx="10" fill="#ffffff" opacity="0.18"/>
+  <rect y="40" width="56" height="16" rx="10" fill="#000000" opacity="0.12"/>
+</g>
+<g class="blk5" transform="translate(299,88)">
+  <rect width="56" height="56" rx="10" fill="#0B5FFF"/>
+  <rect width="56" height="16" rx="10" fill="#ffffff" opacity="0.18"/>
+  <rect y="40" width="56" height="16" rx="10" fill="#000000" opacity="0.12"/>
+</g>
+<g class="blk6" transform="translate(268,26)">
+  <rect width="56" height="56" rx="10" fill="#FBBF24"/>
+  <rect width="56" height="16" rx="10" fill="#ffffff" opacity="0.18"/>
+  <rect y="40" width="56" height="16" rx="10" fill="#000000" opacity="0.12"/>
+</g>
+
+<text class="cap capline" x="300" y="232">build, ship, repeat</text>
+</svg>
