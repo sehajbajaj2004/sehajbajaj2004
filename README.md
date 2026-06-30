@@ -63,23 +63,6 @@ Right now I'm a Product Intern at Leap Scholar in Bengaluru, where I work on onb
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
-## 💼 Experience
-
-**Product Intern, Leap Scholar — Bengaluru**
-`Jan 2026 to Present`
-
-* Took Login to Onboarding Completion from 23% to 40% by launching a conversational chatbot for early stage users and a dedicated flow for high intent users
-* Got the chatbot to 47% activation (5+ messages) and 22% deep engagement (10+ messages)
-* Ran 150+ user interviews to find drop off drivers, which lifted qualified lead rate from 41% to 56%
-* Authored the PRD for a premium paywall experiment that surfaced stronger intent signals from paid campaigns
-
-**Development Intern, IIT Delhi, Department of Design**
-`Jun 2025 to Jul 2025`
-
-* Built a VR training simulator for coal miners using Unity, C#, and Blender, on a project backed by American Express
-* Translated input from researchers and domain experts into VR modules simulating drilling, blasting, and loading
-* Ran usability tests with 15+ participants and shipped 12+ improvements that raised training comprehension by 30%
-
 ## 🚀 Featured Projects
 
 **[Beyond the Bars: VR Escape Experience](https://github.com/sehajbajaj2004/Escape-Room-VR)**
@@ -100,14 +83,6 @@ A real time study platform with live video, audio, and chat. WebRTC and Socket.I
 `MERN` `WebRTC` `Socket.IO` `Firebase`
 
 More projects live on my [repositories page](https://github.com/sehajbajaj2004?tab=repositories).
-
-## 🏅 Beyond the Code
-
-* Product Management Job Simulation, Electronic Arts
-* Product Design Job Simulation, Electronic Arts
-* Digital Skills: User Experience, Accenture
-* Associate Secretary, Pratibimb (Photography Club, UPES)
-* Media Sub Head, Avishkarnam Literary Club, UPES
 
 ## 📊 GitHub Stats
 
